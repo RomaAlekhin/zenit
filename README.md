@@ -1,19 +1,23 @@
-# zenit
+# Тестовое задание. Банк Зенит
 
-## Project setup
+## Настройка проекта
+
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Запуск проекта для разработки
+
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Сборка и минификация для production версии
+
 ```
 npm run build
 ```
 
-### Customize configuration
+### Настройка конфигурации
+
 See [Configuration Reference](https://cli.vuejs.org/config/).
