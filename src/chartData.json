@@ -1,0 +1,78 @@
+[
+	{
+		"title": "Chart 1",
+		"type": "line",
+		"isShowTooltip": true,
+		"data": [
+			{ "group": "Jan", "value": 51 },
+			{ "group": "Feb", "value": 91 },
+			{ "group": "Mar", "value": 34 },
+			{ "group": "Apr", "value": 47 },
+			{ "group": "May", "value": 63 },
+			{ "group": "June", "value": 58 },
+			{ "group": "July", "value": 56 },
+			{ "group": "Aug", "value": 77 },
+			{ "group": "Sep", "value": 99 },
+			{ "group": "Oct", "value": 106 },
+			{ "group": "Nov", "value": 88 },
+			{ "group": "Dec", "value": 56 }
+		]
+	},
+
+	{
+		"title": "Chart 2",
+		"type": "line",
+		"isShowTooltip": false,
+		"data": [
+			{ "group": 1991, "value": 3 },
+			{ "group": 1992, "value": 4 },
+			{ "group": 1993, "value": 3.5 },
+			{ "group": 1994, "value": 5 },
+			{ "group": 1995, "value": 4.9 },
+			{ "group": 1996, "value": 6 },
+			{ "group": 1997, "value": 7 },
+			{ "group": 1998, "value": 9 },
+			{ "group": 1999, "value": 13 }
+		]
+	},
+
+	{
+		"title": "Chart 3",
+		"type": "step",
+		"isShowTooltip": true,
+		"data": [
+			{ "group": "Jan", "value": 51 },
+			{ "group": "Feb", "value": 91 },
+			{ "group": "Mar", "value": 34 },
+			{ "group": "Apr", "value": 47 },
+			{ "group": "May", "value": 63 },
+			{ "group": "June", "value": 58 },
+			{ "group": "July", "value": 56 },
+			{ "group": "Aug", "value": 77 },
+			{ "group": "Sep", "value": 99 },
+			{ "group": "Oct", "value": 106 },
+			{ "group": "Nov", "value": 88 },
+			{ "group": "Dec", "value": 56 }
+		]
+	},
+
+	{
+		"title": "Chart 4",
+		"type": "column",
+		"isShowTooltip": true,
+		"data": [
+			{ "group": "Jan", "value": 51 },
+			{ "group": "Feb", "value": 91 },
+			{ "group": "Mar", "value": 34 },
+			{ "group": "Apr", "value": 47 },
+			{ "group": "May", "value": 63 },
+			{ "group": "June", "value": 58 },
+			{ "group": "July", "value": 56 },
+			{ "group": "Aug", "value": 77 },
+			{ "group": "Sep", "value": 99 },
+			{ "group": "Oct", "value": 106 },
+			{ "group": "Nov", "value": 88 },
+			{ "group": "Dec", "value": 56 }
+		]
+	}
+]
